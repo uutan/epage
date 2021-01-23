@@ -29,12 +29,6 @@
   },
   "homepage": "https://github.com/didi/epage#readme",
   "license": "MIT",
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint && git add .",
-      "commit-msg": "node script/verify-commit-msg.js"
-    }
-  },
   "peerDependencies": {
     "vue": ">=2.5",
     "iview": ">=2.13",
