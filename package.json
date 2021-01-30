@@ -1,6 +1,6 @@
 {
   "name": "msepage",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "基于Epage 一款基于schema的可视化页面配置工具",
   "author": "UUTAN <uutan@qq.com>",
   "main": "./dist/epage.min.js",
