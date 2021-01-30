@@ -1,7 +1,7 @@
 {
-  "name": "epage",
+  "name": "msepage",
   "version": "0.6.1",
-  "description": "Epage 一款基于schema的可视化页面配置工具",
+  "description": "基于Epage 一款基于schema的可视化页面配置工具",
   "author": "Chengzi <ttghost@126.com>",
   "main": "./dist/epage.min.js",
   "main:epage": "./src/main.js",
@@ -19,15 +19,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/didi/epage.git"
+    "url": "git+https://github.com/uutan/epage.git"
   },
   "keywords": [
     "epage"
   ],
   "bugs": {
-    "url": "https://github.com/didi/epage/issues"
+    "url": "https://github.com/uutan/epage/issues"
   },
-  "homepage": "https://github.com/didi/epage#readme",
+  "homepage": "https://github.com/uutan/epage#readme",
   "license": "MIT",
   "peerDependencies": {
     "vue": ">=2.5",
