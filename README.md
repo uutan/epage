@@ -11,13 +11,11 @@ npm i msepage
 ## 设计器及渲染器示例
 
 ```js
-import widgets, { Epage, Render } from "epage-iview";
-import "epage-iview/src/style/main.less";
+import widgets, { Render, Epage } from "msepage";
+import "msepage/src/style/main.less";
 
 const el = document.getElementById("root");
-// 实例化设计器，Render为渲染器，widgets为待注册的页面部件
-// 关于 Render 和 widgets，可以访问 https://github.com/epage-team/epage-iview
-new Epage({ el, Render, widgets });
+new Epage({ el, widgets, Render });
 ```
 
 ## 感谢
