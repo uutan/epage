@@ -17,11 +17,6 @@
     "dist",
     "src"
   ],
-<<<<<<< HEAD
-  "keywords": [
-    "epage"
-  ],
-=======
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uutan/epage.git"
@@ -33,7 +28,6 @@
     "url": "https://github.com/uutan/epage/issues"
   },
   "homepage": "https://github.com/uutan/epage#readme",
->>>>>>> c99334af458c00c5e39f553f9faa275fb4823f04
   "license": "MIT",
   "peerDependencies": {
     "vue": ">=2.5",
